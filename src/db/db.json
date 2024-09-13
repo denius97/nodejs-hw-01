@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "659d0c7c-2061-48df-9461-d614ad249c73",
+    "name": "Merle Gorczany",
+    "phone": "218.700.4167 x0410",
+    "email": "Makayla63@gmail.com",
+    "job": "Senior Metrics Assistant"
+  },
+  {
+    "id": "4767e04c-c58e-4097-993c-73a4d261efdb",
+    "name": "Rodolfo Franey",
+    "phone": "947-929-3313 x397",
+    "email": "Judah_Langosh43@hotmail.com",
+    "job": "Principal Factors Facilitator"
+  },
+  {
+    "id": "d900c3df-0b5a-4074-8cdd-c6c790617d64",
+    "name": "Shawn Anderson",
+    "phone": "(484) 756-5498 x855",
+    "email": "Carter.Metz11@hotmail.com",
+    "job": "Central Assurance Facilitator"
+  }
+]
